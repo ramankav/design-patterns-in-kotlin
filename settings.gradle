@@ -1,0 +1,12 @@
+rootProject.name = 'design-patterns-in-kotlin'
+
+include 'Factory-Pattern';
+include 'Abstract-Factory-Pattern';
+include 'Singleton-Pattern';
+include 'Builder-Pattern';
+include 'Prototype-Pattern'
+include 'Adapter-Pattern'
+include 'Bridge-Pattern'
+include 'Filter-Pattern'
+include 'Composite-Pattern'
+include 'Decorator-Pattern'

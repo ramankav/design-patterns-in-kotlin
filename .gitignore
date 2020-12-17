@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Abstract-Factory-Pattern/build/
+/build/
+/Bridge-Pattern/out/
+/Adapter-Pattern/out/
+/.idea/
+/.gradle/
+/Abstract-Factory-Pattern/out/
+/*/out/
+/Bridge-Pattern/out/
